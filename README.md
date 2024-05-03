@@ -52,7 +52,7 @@ This app uses an external API to generate images. You need to provide your own A
 
 ```javascript
 const apiKey = 'LifAn_YQNQRAltSqFH80wlXUvexEQRoR9bMP4SkSerw';
-const apiUrl = 'YOUR_API_URL';
+const apiUrl = `https://api.unsplash.com/search/photos?page=${page}&query=${inputData}&client_id=${accessKey}';
 Customization
 You can customize the app as follows:
 
