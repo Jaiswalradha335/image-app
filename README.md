@@ -29,14 +29,14 @@ Welcome to the Image Generator App! This application allows you to generate and 
 ## Installation
 
 1. Clone this repository:
-    ```shell
+    
     git clone https://github.com/yourusername/your-repo-name.git
-    ```
+    
 
 2. Navigate to the project directory:
-    ```shell
+   
     cd your-repo-name
-    ```
+    
 
 3. Open the `index.html` file in your preferred web browser.
 
@@ -50,7 +50,6 @@ Welcome to the Image Generator App! This application allows you to generate and 
 
 This app uses an external API to generate images. You need to provide your own API key and update the script in the `app.js` file:
 
-```javascript
 const apiKey = 'LifAn_YQNQRAltSqFH80wlXUvexEQRoR9bMP4SkSerw';
 const apiUrl = `https://api.unsplash.com/search/photos?page=${page}&query=${inputData}&client_id=${accessKey}';
 Customization
