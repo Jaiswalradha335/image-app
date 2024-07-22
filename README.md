@@ -14,7 +14,7 @@ Welcome to the Image Generator App! This application allows you to generate and 
 - [Contributing](#contributing)
 - [License](#license)
 
-  Features
+  #Features
 
 - Generate images using an external API.
 - Simple and user-friendly interface.
@@ -26,7 +26,7 @@ Welcome to the Image Generator App! This application allows you to generate and 
 - Web browser (e.g., Chrome, Firefox, Safari) with JavaScript enabled.
 - Internet connection.
 
-  Installation
+ #Installation
 
 1. Clone this repository:
     
@@ -40,7 +40,7 @@ Welcome to the Image Generator App! This application allows you to generate and 
 
 3. Open the `index.html` file in your preferred web browser.
 
- Usage
+ #Usage
 
 1. In the application, you can specify the search term or other parameters for image generation.
 2. Click the button to generate images based on the provided input.
@@ -56,7 +56,6 @@ const apiUrl = `https://api.unsplash.com/search/photos?page=${page}&query=${inpu
 
 Customization
 
-
 You can customize the app as follows:
 
 Modify the HTML, CSS, and JavaScript files to change the appearance and functionality of the app.
@@ -68,7 +67,6 @@ Clear the browser cache if changes are not reflecting.
 
 
 Contributing
-
 
 We welcome contributions to enhance the app! To contribute:
 
