@@ -1,4 +1,4 @@
-# Image Generator App
+ Image Generator App
 
 Welcome to the Image Generator App! This application allows you to generate and display images using an API. Built using HTML, CSS, and JavaScript, the app offers an intuitive and responsive user interface.
 
