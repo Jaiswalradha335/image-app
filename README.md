@@ -14,7 +14,7 @@ Welcome to the Image Generator App! This application allows you to generate and 
 - [Contributing](#contributing)
 - [License](#license)
 
-  #Features
+  Features
 
 - Generate images using an external API.
 - Simple and user-friendly interface.
